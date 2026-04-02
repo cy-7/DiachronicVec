@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+models/
+data/
+results/
+processed_corpus/
+
+web/node_modules/
+web/dist/
